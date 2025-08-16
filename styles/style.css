@@ -239,6 +239,7 @@ a {
 }
 .about {
 	margin-top: 146px;
+	margin-left: 200px;
 	margin-bottom: 180px;
 	display: grid;
 	grid-template-columns: 360px 693px;
